@@ -1,0 +1,24 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "app.js",
+  "scripts": { 
+    "build": "webpack",
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulina23/WAR_FRO_S_23_Furry_Game_wolny_tydzien.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulina23/WAR_FRO_S_23_Furry_Game_wolny_tydzien/issues"
+  },
+  "homepage": "https://github.com/paulina23/WAR_FRO_S_23_Furry_Game_wolny_tydzien#readme",
+  "devDependencies": {
+    "webpack": "^3.5.4"
+  }
+}
